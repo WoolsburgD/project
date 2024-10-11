@@ -7,3 +7,5 @@
 
 Новые изменения при pull request
 
+##Conflict3
+
